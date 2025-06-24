@@ -1,6 +1,7 @@
 ### 사용방법 (5.5 버전으로 개발되었습니다)
 우측 상단의 Code를 클릭 후 Download ZIP을 클릭해주세요
 ![image](https://github.com/user-attachments/assets/61f1b2f5-915e-4949-8876-710199da8fa7)
+
 압축을 풀고 Saved 폴더로 들어가 Models라는 폴더를 새로 만들어 줍니다.
 https://huggingface.co/unsloth/gemma-3-4b-it-GGUF
 해당 링크로 가서 16bit 모델을 다운받아줍니다.
